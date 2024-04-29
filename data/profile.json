@@ -1,0 +1,93 @@
+{
+  "name": "Daniele Cardoso",
+  "photo": "",
+  "job": "Arquiteta",
+  "location": "Belo Horizonte - MG",
+  "phone": "(12) 991944288",
+  "email": "daniele_cardoso09@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Sketchup",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/sketchup.svg"
+      },
+      {
+        "name": "V-Ray",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/vRay.png"
+      },
+      {
+        "name": "Promob",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/promob.png"
+      },
+      {
+        "name": "Archicad",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/archicad.png"
+      },
+      {
+        "name": "AutoCad",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/autocad.svg"
+      },
+      {
+        "name": "Enscape",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/Enscape.png"
+      },
+      {
+        "name": "Photoshop",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/photoshop.png"
+      },
+      {
+        "name": "Ilustrator",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/ilustrator.svg"
+      },
+      {
+        "name": "Excel",
+        "logo": "https://raw.githubusercontent.com/KelvinClenderson/Portfolio-DanieleArq/main/data/imgs/excel.png"
+      }
+    ],
+    "softSkills": [
+      "Comprometimento com resultados",
+      "Empatia",
+      "Flexibilidade",
+      "Criatividade",
+      "Organização",
+      "Trabalho em equipe",
+      "Estrategista"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avançado)",
+    "Espanhol (Avançado)",
+    "Francês (Intermediário)",
+    "Italiano (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Sala de Estar 5m² por 4m²",
+      "url": "",
+      "github": false
+    },
+    {
+      "name": "Cozinha - 4m² por 4m²",
+      "url": "",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiária de arquitetura / Projetum Armarios",
+      "period": "Abr de 2023 - Jan de 2024 ",
+      "description": "Refinei minha expertise em renderização, design de interiores e elaboração de orçamentos. Aprimorei minhas habilidades em comunicação e atendimento ao cliente, além de dominar o uso do BIM. Implementei estratégias eficazes e promoções em meus projetos, ampliando ainda mais meu leque de habilidades para alcançar o sucesso na área."
+    },
+    {
+      "name": "Estagiária de arquitetura / Traço Leal Arquitetura & Urbanismo",
+      "period": "Jul de 2022 - Mai de 2023",
+      "description": "O estágio me permitiu dominar softwares como AutoCAD e SketchUp, projetar ambientes com BIM e renderização, e desenvolver habilidades em design de interiores e comunicação."
+    },
+    {
+      "name": "Gerente de vendas / Trama Junior Arquitetura e Design UFMG",
+      "period": "Fev de 2022 - Set de 2023",
+      "description": "Minha experiência em Arquitetura e Urbanismo me proporcionou desenvolvimento estratégico, comunicação eficaz e resolução criativa de problemas, preparando-me para os desafios do mercado."
+    }
+  ]
+}
