@@ -13,6 +13,8 @@
     flex-direction: column;
     justify-content: flex-start;
     margin: 1rem 0;
+    font-size: 1.125rem;
+
 }
 
 .portfolio li h3 {
@@ -32,6 +34,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/github.svg');
+    background-image: url('../img/icons/behance.png');
     margin-right: .5rem;
 }

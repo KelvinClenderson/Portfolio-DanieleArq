@@ -63,15 +63,32 @@
   ],
   "portfolio": [
     {
-      "name": "Sala de Estar 5m² por 4m²",
-      "url": "",
-      "github": false
+      "name": "Estudo Cozinha Solar",
+      "url": "https://www.behance.net/gallery/197336265/Estudo-Cozinha-Solar",
+      "github": true
     },
     {
-      "name": "Cozinha - 4m² por 4m²",
-      "url": "",
-      "github": false
+      "name": "Banheiro Natura",
+      "url": "https://www.behance.net/gallery/197336457/Banheiro-Natura",
+      "github": true
+    },
+    {
+      "name": "Home Office Estudante",
+      "url": "https://www.behance.net/gallery/197336333/Home-Office-Estudante",
+      "github": true
+    },
+    {
+      "name": "Quarto Geometric",
+      "url": "https://www.behance.net/gallery/197336493/Quarto-Geometric",
+      "github": true
+    },
+    {
+      "name": "Quarto Apartamento 2,2x2,5",
+      "url": "https://www.behance.net/gallery/197336439/Quarto-Apartamento-22x25",
+      "github": true
     }
+    
+    
   ],
   "professionalExperience": [
     {
